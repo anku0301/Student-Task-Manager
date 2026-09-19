@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+out/
+bin/
+
+# Serialized task data
+tasks.dat
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
